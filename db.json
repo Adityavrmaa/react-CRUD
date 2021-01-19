@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "",
+      "username": "Adityaverma",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "id": 11
+    },
+    {
+      "name": "abhishek",
+      "username": "abhiehsk",
+      "email": "abhishek@gmail.com",
+      "phone": "77777777777777777777",
+      "website": "abhishek",
+      "id": 12
+    },
+    {
+      "name": "vishwas raja",
+      "username": "vishwas raja",
+      "email": "vishwasraja@gmail.com",
+      "phone": "4444444444",
+      "website": "vishwasdrajabhai.com",
+      "id": 13
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "id": 14
+    },
+    {
+      "name": "neel",
+      "username": "neel",
+      "email": "neel@gmail.com",
+      "phone": "444444444",
+      "website": "neel",
+      "id": 15
+    },
+    {
+      "name": "aditya",
+      "username": "CC21000001",
+      "email": "vaditya441@gmail.com",
+      "phone": "addad",
+      "website": "asdityaverma.com",
+      "id": 16
+    }
+  ]
+}
